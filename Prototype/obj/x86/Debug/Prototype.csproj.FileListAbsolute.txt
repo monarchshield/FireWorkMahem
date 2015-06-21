@@ -1,0 +1,30 @@
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\bullet.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\Button.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\CrappyBackgroundState.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\gameBackground.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\GameBackgroundGood.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\GameBgm.wav
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\HUD.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\HudExample.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\Hut.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\marioSpriteSheet.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\MenuState.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\SplashScreen.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\test.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\testZombie.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\zombie.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\ZombieBlock.png
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Prototype.exe
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Prototype.pdb
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Bogli\anthony.bogli_Bogli-HP_4652\anthony.bogli_Bogli-HP_4652\1st_Year\Groups\Green\TAD-BIT-AWESOME\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Bogli\Desktop\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Bogli\Desktop\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\obj\x86\Debug\Prototype.pdb

@@ -1,0 +1,54 @@
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\obj\x86\Debug\FireWorkMahem.csprojResolveAssemblyReference.cache
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Prototype.exe
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Prototype.pdb
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Content\FireWorkSpriteSheet.png
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Content\FMWIDTH.png
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Content\Button.png
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Content\Particle.png
+C:\Users\Bogli\Desktop\FireWork Mahem\Prototype\bin\WindowsGL\Debug\Content\Arial_14.xnb
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Button.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\FireWorkSpriteSheet.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\FMWIDTH.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Particle.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Arial_14.xnb
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Prototype.exe
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Prototype.pdb
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\obj\x86\Debug\FireWorkMahem.csprojResolveAssemblyReference.cache
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Select.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\SelectionBar.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\SelectionBar2.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Dot.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\BlueFWSpritesheet.png
+C:\Users\Bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\obj\x86\Debug\FireWorkMahem.csprojResolveAssemblyReference.cache
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\BlueFWSpritesheet.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Button.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Dot.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\FireWorkSpriteSheet.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\FMWIDTH.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Particle.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Select.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\SelectionBar.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\SelectionBar2.png
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\Arial_14.xnb
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Prototype.exe
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Prototype.pdb
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Tao.Sdl.dll
