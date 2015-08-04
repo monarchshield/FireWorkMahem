@@ -58,11 +58,15 @@ namespace FireWorkMahem
         public RocketType Selected;
         private float Delay;
         private float Leftquad;
+        private float EntryTime;
+
 
         LevelEditor() { }
 
         public LevelEditor(Texture2D GUImage, Texture2D Select, Texture2D dot,Vector2 Pos, int Totaltypes, Texture2D RegFW, Texture2D FPFW, SpriteFont Text)
         {
+
+
 
             font = Text;
             DotTexture = dot;
@@ -82,6 +86,8 @@ namespace FireWorkMahem
             height = Image.Height / 2;
             box = 0;
             SlotSize = Image.Width / NumOfRockets;
+            EntryTime = 0;
+
 
             stringValue = string.Empty;
 
@@ -97,8 +103,11 @@ namespace FireWorkMahem
             Delay = 1.0f;
         }
 
-        public void Update(float deltatime, Vector2 MousePos)
+        public void Update(float deltatime, Vector2 MousePos, float a_entryTime)
         {
+
+            EntryTime = a_entryTime;
+
             MousePosition = MousePos;
 
             SelectRocket();
@@ -178,7 +187,7 @@ namespace FireWorkMahem
             {
                 if (Selected == RocketType.RegularRocket && Mouse.GetState().LeftButton == ButtonState.Pressed && Delay < 0)
                 {
-                    RocketList.Add(new FireWork(RegFirework, MousePosition,SetTargetPoint));
+                    RocketList.Add(new FireWork(RegFirework, MousePosition,SetTargetPoint, EntryTime));
                     Delay = 1.0f;
                     //RocketTypeSelected = false;
                 }
@@ -199,7 +208,7 @@ namespace FireWorkMahem
 
                 if (Selected == RocketType.PathRocket && Mouse.GetState().LeftButton == ButtonState.Pressed && Delay < 0)
                 {
-                    RocketList.Add(new PathRocket(FPRocket, MousePosition, Points));
+                    RocketList.Add(new PathRocket(FPRocket, MousePosition, Points, EntryTime));
                     Delay = 1.0f;
                 }
             }
@@ -286,7 +295,10 @@ namespace FireWorkMahem
            spritebatch.Draw(RegFirework, new Rectangle((int)MousePosition.X , (int) MousePosition.Y - RegFirework.Height/2, 20, 43), new Rectangle(0, 0, 20, 43), Color.White, 0, new Vector2(0, 0), SpriteEffects.None, 0.0f);
            spritebatch.Draw(DotTexture, new Rectangle((int)SetTargetPoint.X - DotTexture.Width / 4, (int)SetTargetPoint.Y - DotTexture.Height / 4, DotTexture.Width /2, DotTexture.Height/ 2), Color.White);
 
-           
+
+
+           spritebatch.DrawString(font, "Entry Time: " + EntryTime.ToString(), new Vector2(0, 0), Color.White);
+
            //Drawing a path debug line
             int i = 0;
 

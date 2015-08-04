@@ -19,9 +19,10 @@ namespace FireWorkMahem
 
         public List<Vector2> TravelPoints;
         public float length;
+        public float EntranceTime;
 
-        public PathRocket(Texture2D spritesheet, Vector2 Position, List<Vector2> Points)
-            : base(spritesheet, Position, Points[0])
+        public PathRocket(Texture2D spritesheet, Vector2 Position, List<Vector2> Points, float EntryTime)
+            : base(spritesheet, Position, Points[0], EntryTime)
         {
             TravelPoints = Points;
             //Direction = FWPosition - TravelPoints[0];

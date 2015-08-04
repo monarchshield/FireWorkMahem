@@ -37,13 +37,15 @@ namespace FireWorkMahem
         public Vector2 m_velocity;
         public Vector2 m_force;
         public Vector2 m_acceleration;
+
+        float m_entryTime;
         float m_mass;
         float m_damping;
         Vector2 MaxVeloxity;	
 
 
 
-        public FireWork(Texture2D spritesheet, Vector2 Position)
+        public FireWork(Texture2D spritesheet, Vector2 Position, float EntryTime)
         {
             FWTexture = spritesheet;
             FWPosition = Position;
@@ -64,11 +66,12 @@ namespace FireWorkMahem
             m_damping = -2.5f;
 
             m_acceleration = new Vector2(0, 0);
-            MaxVeloxity = new Vector2(2, 2);	
+            MaxVeloxity = new Vector2(2, 2);
+            m_entryTime = EntryTime;
 
         }
 
-        public FireWork(Texture2D spritesheet, Vector2 Position, Vector2 Target)
+        public FireWork(Texture2D spritesheet, Vector2 Position, Vector2 Target, float EntryTime)
         {
             FWTexture = spritesheet;
             FWPosition = Position;
@@ -94,6 +97,8 @@ namespace FireWorkMahem
             m_force    =  new Vector2(0, 0);
             m_mass = 10.0f;
             m_damping = 2.0f;
+            m_entryTime = EntryTime;
+
 
             m_acceleration = new Vector2(0, 0);
 

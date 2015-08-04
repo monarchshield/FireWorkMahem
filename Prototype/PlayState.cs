@@ -32,6 +32,8 @@ namespace FireWorkMahem
        Texture2D SelectBar;
        Texture2D ChosenRocket;
        Texture2D DotTexture;
+       Texture2D RectButton;
+
 
        //Mouse Position Vectors
        Point MousePosition; 
@@ -52,6 +54,8 @@ namespace FireWorkMahem
        Random ColourRand;
        int SparkColour;
 
+       float EntryTime = 0;
+
         public PlayState()
             : base()
         {
@@ -67,7 +71,7 @@ namespace FireWorkMahem
             Points.Add(new Vector2(150, 75));
             Points.Add(new Vector2(125, 200));
             //
-            TestRocket = new FireWork(RedRocketSpriteSheet, new Vector2(0, 0));
+            TestRocket = new FireWork(RedRocketSpriteSheet, new Vector2(0, 0), EntryTime);
             //Rocket2 = new PathRocket(RedRocketSpriteSheet, new Vector2(300, 300), Points);
            
         }
@@ -85,6 +89,9 @@ namespace FireWorkMahem
             ChosenRocket = Content.Load<Texture2D>("Select.png");
             DotTexture = Content.Load<Texture2D>("Dot.png");
             font = Content.Load<SpriteFont>("SpriteFont1");
+            RectButton = Content.Load<Texture2D>("AABButton.png");
+
+
         }
        public void Init()
         {
@@ -129,7 +136,7 @@ namespace FireWorkMahem
 
             //Rocket2.Update(DeltaTime);
 
-            Editor.Update(DeltaTime, MousePos);
+            Editor.Update(DeltaTime, MousePos ,EntryTime);
 
 
             if (Mouse.GetState().MiddleButton == ButtonState.Pressed && Cooldown < 0)
