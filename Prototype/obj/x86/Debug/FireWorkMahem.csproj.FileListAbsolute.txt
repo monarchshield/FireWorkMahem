@@ -49,3 +49,18 @@ C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debu
 C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Prototype.exe
 C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Prototype.pdb
 C:\Users\anthony.bogli\Desktop\Github\FireWorkMahem\Prototype\bin\WindowsGL\Debug\Content\AABButton.png
+C:\Users\anthony.bogli\Desktop\FireWorkMahem\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\anthony.bogli\Desktop\FireWorkMahem\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\obj\x86\Debug\FireWorkMahem.csprojResolveAssemblyReference.cache
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Content\Arial_14.xnb
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Prototype.exe
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Prototype.pdb
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Content\PlayerSprite - Copy.png
+C:\Users\anthony.bogli\Desktop\Network2.0\Prototype\bin\WindowsGL\Debug\Content\PlayerSprite.png

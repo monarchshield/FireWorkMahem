@@ -1,21 +1,22 @@
-using System;
+﻿using System;
 
 namespace FireWorkMahem
 {
-#if WINDOWS || XBOX
-    static class Program
+#if WINDOWS || LINUX
+    /// <summary>
+    /// The main class.
+    /// </summary>
+    public static class Program
     {
-        public static Game1 game;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        static void Main(string[] args)
+        [STAThread]
+        static void Main()
         {
-            game = new Game1();
-            game.Run();
-            game.Dispose();
+            using (var game = new Game1())
+                game.Run();
         }
     }
 #endif
 }
-
