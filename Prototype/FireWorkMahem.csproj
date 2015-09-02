@@ -6,7 +6,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{0CACFB8D-C072-4ADC-B859-FCC53198922B}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Prototype</RootNamespace>
     <AssemblyName>Prototype</AssemblyName>
@@ -32,18 +32,25 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>
-    </ApplicationIcon>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Block.cs" />
+    <Compile Include="Button.cs" />
+    <Compile Include="Camera2D.cs" />
+    <Compile Include="Credits.cs" />
+    <Compile Include="FireWork.cs" />
     <Compile Include="Game1.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="GameStateManager.cs" />
+    <Compile Include="Instructions.cs" />
+    <Compile Include="LevelEditor.cs" />
+    <Compile Include="MenuState.cs" />
+    <Compile Include="NPC.cs" />
+    <Compile Include="Particle.cs" />
+    <Compile Include="PathRocket.cs" />
+    <Compile Include="PlayState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RectangleButton.cs" />
     <Compile Include="SpriteBatchExtended.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -63,14 +70,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\PlayerSprite - Copy.png">
+    <Content Include="Content\AABButton.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Content\PlayerSprite.png">
+    <Content Include="Content\BlueFWSpritesheet.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\Button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Dot.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\FireWorkSpriteSheet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\FMWIDTH.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Particle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Select.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\SelectionBar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\SelectionBar2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icon.ico" />
     <Content Include="OpenAL32.dll" />
-    <Content Include="Prototype.csproj.user" />
     <Content Include="SelectionBar2.png" />
   </ItemGroup>
   <ItemGroup>
@@ -80,7 +111,6 @@
     <Content Include="Content\SpriteFont1.xnb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Content\Content.mgcb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
