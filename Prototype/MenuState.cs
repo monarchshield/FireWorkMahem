@@ -64,7 +64,7 @@ namespace FireWorkMahem
                  }
              }
 
-             SelectGame.Update(gameTime);
+             SelectGame.Update();
         }
      
 

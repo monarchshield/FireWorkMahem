@@ -63,7 +63,7 @@ namespace FireWorkMahem
             Init();
 
 
-            Editor = new LevelEditor(SelectBar, ChosenRocket, DotTexture, new Vector2(250, 500), 7, RedRocketSpriteSheet, BlueRocketSpriteSheet,font);
+            Editor = new LevelEditor(SelectBar, ChosenRocket, DotTexture, new Vector2(250, 500), 7, RedRocketSpriteSheet, BlueRocketSpriteSheet, font, RectButton);
 
             Points.Add(new Vector2(100, 50));
             Points.Add(new Vector2(200, 300));
@@ -89,7 +89,7 @@ namespace FireWorkMahem
             ChosenRocket = Content.Load<Texture2D>("Select.png");
             DotTexture = Content.Load<Texture2D>("Dot.png");
             font = Content.Load<SpriteFont>("SpriteFont1");
-            RectButton = Content.Load<Texture2D>("AABButton.png");
+            RectButton = Content.Load<Texture2D>("Button.png");
 
 
         }
@@ -121,8 +121,9 @@ namespace FireWorkMahem
        public override void OnPush()
         {
         }
+
        public override void Update(GameTime gameTime)
-        {
+       {
             DeltaTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
             Cooldown -= DeltaTime;
 
@@ -136,14 +137,12 @@ namespace FireWorkMahem
 
             //Rocket2.Update(DeltaTime);
 
-            Editor.Update(DeltaTime, MousePos ,EntryTime);
+            Editor.Update(DeltaTime, MousePos);
 
 
             if (Mouse.GetState().MiddleButton == ButtonState.Pressed && Cooldown < 0)
             {
                 CrossHeirFireWork();
-                //StarFireWork();
-
                 Cooldown = .25f;
             }
 
@@ -185,6 +184,7 @@ namespace FireWorkMahem
             Particles.Add(new Particle(ParticleTexture, MousePos, new Vector2(1, 0),  SparkColour));
             
         }
+
        public void StarFireWork()
        {
            Particles.Add(new Particle(ParticleTexture, MousePos, new Vector2( 0, -1),       0));

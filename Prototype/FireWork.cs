@@ -10,6 +10,11 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
+
+//TODO: Work out, how to make a OBB
+//For firework collision detection :)
+
+
 namespace FireWorkMahem
 {
     class FireWork : IDisposable
@@ -38,7 +43,7 @@ namespace FireWorkMahem
         public Vector2 m_force;
         public Vector2 m_acceleration;
 
-        float m_entryTime;
+        public float m_entryTime;
         float m_mass;
         float m_damping;
         Vector2 MaxVeloxity;	

@@ -39,7 +39,7 @@ namespace FireWorkMahem
         }
 
 
-        public void Update(GameTime gameTime)
+        public void Update()
         {
 
             //Put Colour Change Function here
@@ -51,10 +51,32 @@ namespace FireWorkMahem
             
         }
 
+
+        
+
         public void Draw( SpriteBatch spritebatch)
         {
             spritebatch.Draw(ButtonTexture, new Rectangle((int)ButtonPosition.X - ButtonWidth/2 , (int)ButtonPosition.Y - ButtonHeight/2 , ButtonWidth, ButtonHeight), m_colour);
        
+        }
+
+        public bool BeenClicked()
+        {
+            Point Mouseposition = Mouse.GetState().Position;
+        
+            SelectedIsTrue(false);
+
+            if (Mouseposition.X >= ButtonPosition.X - 75 && Mouseposition.X <= ButtonPosition.X + 75 &&
+                Mouseposition.Y >= ButtonPosition.Y - 15 && Mouseposition.Y <= ButtonPosition.Y + 15)
+                {
+                    SelectedIsTrue(true);
+        
+                    if (Mouse.GetState().LeftButton == ButtonState.Pressed)
+                    {
+                        return true;
+                    }
+                }
+            return false;
         }
 
         public void SelectedIsTrue(bool trueOrFalse)

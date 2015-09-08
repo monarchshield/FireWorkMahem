@@ -16,7 +16,7 @@ namespace FireWorkMahem
     {
 
         public RectangleButton(Texture2D spritesheet, Vector2 Position, int height, int width)
-            : base(_texture,_position,_height,_width)
+            : base(spritesheet,Position,height,width)
         {
 
         }
